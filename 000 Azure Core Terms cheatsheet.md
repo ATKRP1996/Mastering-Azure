@@ -34,7 +34,7 @@ A concise list of essential Azure terms.
 | File Share                                 | Shared file storage accessible over SMB protocol.                    | Storage           |
 | Disk Type                                  | Defines disk performance (Standard/Premium).                         | Storage           |
 | IOPS                                       | Measure of input/output performance for storage.                     | Storage           |
-| Hot/Cool/Archive Tiers                     | Storage pricing and access speed options.                            | Storage           |
+| Hot/Cool/Cold/Archive Tiers                | Storage pricing and access speed options.                            | Storage           |
 | Snapshot                                   | Point-in-time backup of a disk or data.                              | Storage           |
 | Managed Disk                               | Automatically managed storage for VMs.                               | Storage           |
 | Ephemeral Disk                             | Temporary storage that resets when VM is redeployed.                 | Storage           |
