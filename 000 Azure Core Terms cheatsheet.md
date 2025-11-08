@@ -1,4 +1,4 @@
-# Azure Core Concepts & Certification Terms Cheat Sheet
+# Azure Core Concepts
 
 A concise list of essential Azure terms.
 
@@ -16,7 +16,7 @@ A concise list of essential Azure terms.
 | Redundancy                                 | Multiple copies of components or data for reliability.               | Core Architecture |
 | Fault Tolerance                            | System survives failure; Focuses on continuity of service            | Core Architecture |
 |                                            | System continues operating even if part fails.                       |                   |
-| Fault Isolation                            | System contains failure; Focuses on damage control                   | Core Architecture |
+| Fault Isolation                            | System isolates the failure; Focuses on damage control               | Core Architecture |
 |                                            | Failure is contained within a limited area so it doesn’t spread.     |                   |
 | Latency                                    | Delay in data transfer or processing.                                | Performance       |
 | Throughput                                 | Amount of data processed in a given time.                            | Performance       |
